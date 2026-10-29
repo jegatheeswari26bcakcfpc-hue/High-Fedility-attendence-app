@@ -1,5 +1,5 @@
 # High-Fedility-attendence-app
-Design Link - https://www.figma.com/design/rRAz13kmgY6oqUrBJt22Lr/Student-Attendance-app?node-id=0-1&p=f&t=PD0gGTSuiwMd4Qg3-0
+Design Link - https://www.figma.com/design/rRAz13kmgY6oqUrBJt22Lr/Student-Attendance-app?node-id=0-1&p=f&t=rz5joiwR5oUwS8Xw-0
 Prototype Link - https://www.figma.com/proto/rRAz13kmgY6oqUrBJt22Lr/Student-Attendance-app?node-id=0-1&t=PD0gGTSuiwMd4Qg3-1
 # Smart Attendance System 🎓
 
